@@ -1,0 +1,23 @@
+.child-box {
+    background-color: ghostwhite;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+}
+.flagImage {
+    width: 150px;
+}
+.information {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.information h4 {
+    font-size: 14px;
+    font-weight: 500;
+    color: saddlebrown;
+}
+.h4Tags {
+    margin-right: 10px;
+}
